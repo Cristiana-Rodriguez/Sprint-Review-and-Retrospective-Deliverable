@@ -1,1 +1,6 @@
 # Sprint-Review-and-Retrospective-Deliverable
+How do I interpret user needs and implement them in a program? I interpret user needs by first identifying what the customer wants to achieve and then translating those goals into detailed user stories. User stories help break big ideas into smalled, actionable requirements that guide development. They make it easier to prioritize work and ensure the program meets real user expectations instead of just focusing on technical features.
+How do I approach developing programs? What Agile processes do I hope incorporate into my future development work?
+When developing programs, I like to use an Agile mindset. I do so by working in short iterations, testing often, and adapting based on feedback. I hope to keep using Scrum practices like sprint planning, daily stand-ups, and retrospectives because they keep the team organized, encourage communication, and help deliver consistent progress.
+What does it mean to be a good team member in software development?
+Being a good team member means communicating clearly, staying dependable, and supporting others. It's important to share updates honestly, listen to feedback, and collaborate so the whole team succeeds. Agile emphasizes teamwork and shared responsibility, and I've leared that mutual respect and adaptability make projects run much smoother. 
